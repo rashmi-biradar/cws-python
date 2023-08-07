@@ -1,6 +1,7 @@
 # Python Learning Repository
 
-![python_128x128](https://github.com/rashmi-biradar/cws-python/assets/141494775/270b6cc6-4397-4528-bdc5-cec9bd0e38b5)
+![python_128x128](https://github.com/rashmi-biradar/cws-python/assets/141494775/77244771-bc1a-4f42-950c-7685a2894edd)
+
 
 
 Welcome to my Python Learning Repository! This repository contains a collection of Python code files organized on a weekly basis. Each week's folder covers different topics related to Python, including Python basics, loops, functions, lists, and much more. This README will help you navigate through the repository and understand its structure.
