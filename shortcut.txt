@@ -1,4 +1,0 @@
-ctrl / for commenting
-ctrl down arw for moving the window page
-shift alt down arw for copying the above txt
-ctrl w for closing the window
